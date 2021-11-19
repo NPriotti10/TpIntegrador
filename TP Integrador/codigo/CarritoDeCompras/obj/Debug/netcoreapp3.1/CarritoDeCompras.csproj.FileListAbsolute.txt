@@ -1,0 +1,14 @@
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.exe
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.deps.json
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.json
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.dev.json
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\nicop\Desktop\TP DSI\TP Integrador\codigo\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.genruntimeconfig.cache

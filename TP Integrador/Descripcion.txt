@@ -1,0 +1,14 @@
+*Descripcion del dominio y problema a resolver
+Dominio particular: Mates y complementos (termos, bombillas, etc)
+Nombre proyecto: mateAR
+
+Problema: -El problema que debemos solucionar es poder crear un carrito de 
+	   compras donde el usuario pueda agregar o eliminar  los productos 
+            y la cantidad de los mismos, sumar el total de los productos 
+	    y ofrecer un descuento si el usuario tiene un cupón.
+
+		1-      Agregar/Eliminar productos a la lista junto a sus características
+		2-      Sumar el total
+		3-      Aplicar descuento tuviese
+		4-      Continuar con la compra
+
